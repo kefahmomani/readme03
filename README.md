@@ -212,7 +212,6 @@ div class="shadowbox">
 }
 
 
-
  
  
  The Article author :
