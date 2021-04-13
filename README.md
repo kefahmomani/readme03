@@ -21,7 +21,9 @@ Page Layout Information:
 •	Navigation bar: The navigation bar is same as menu list. It is used to display the content information using hyperlink.
 •	Index / Sidebar: It holds additional information or advertisements and is not always necessary to be added into the page.
 •	Content Section: The content section is the main part where content is displayed.
-•	Footer: The footer section contains the contact information and other query related to web pages. The footer section always put on the bottom of the web pages. The <footer> tag is used to set the footer in web pages.
+•	Footer: The footer section contains the contact information and other query related to web pages. 
+ The footer section always put on the bottom of the web pages. The <footer> tag is used to set the footer in web pages.
+ 
 Example:
 <!DOCTYPE html>
 <html>
