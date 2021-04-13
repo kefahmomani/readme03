@@ -2,8 +2,9 @@
 
 # WHAT IS HTML Layout
 
-Page layout is the part of graphic design that deals with the arrangement of visual elements on a page. Page layout is used to make the web pages look better. It establishes the overall appearance, relative importance, and relationships between the graphic elements to achieve a smooth flow of information and eye movement for maximum effectiveness or impact
-HTML Layout Elements
+Page layout is the part of graphic design that deals with the arrangement of visual elements on a page. Page layout is used to make the web pages look better. It establishes the overall appearance, relative importance, and relationships between the graphic elements to achieve a smooth flow of information and eye movement for maximum effectiveness or impact HTML Layout Elements
+
+
 •  header> - Defines a header for a document or a section 
 •  <nav> - Defines a set of navigation links 
 •  <section> - Defines a section in a document 
@@ -13,10 +14,12 @@ HTML Layout Elements
 •  <details> - Defines additional details that the user can open and close on demand 
 •  <summary> - Defines a heading for the <details> element
  
+ 
  ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/layout.png)
   
   
 Page Layout Information:
+
 •	Header: The part of a front end which is used at the top of the page. <header> tag is used to add header section in web pages.
 •	Navigation bar: The navigation bar is same as menu list. It is used to display the content information using hyperlink.
 •	Index / Sidebar: It holds additional information or advertisements and is not always necessary to be added into the page.
@@ -25,6 +28,7 @@ Page Layout Information:
  The footer section always put on the bottom of the web pages. The <footer> tag is used to set the footer in web pages.
  
 Example:
+
 <!DOCTYPE html>
 <html>
 <head>
