@@ -112,3 +112,104 @@ Example:
     <footer>Footer Section</footer>
 </body>
 </html>                    
+
+# WHAT IS  <Aside> Element
+ 
+ The <aside> element is used to identify content that is related to the primary content of the webpage, but does not constitute the primary content of the page. Author information, related links, related content, and advertisements are exampes of content that may be found in an aside element.
+
+The aside element represents a section of a page that consists of content that is tangentially related to the content around the aside element, and which could be considered separate from that content. Such sections are often represented as sidebars in printed typography.
+    The element can be used for typographical effects like pull quotes or sidebars, for advertising, for groups of nav elements, and for other content that is considered separate from the main content of the page.
+
+This means that any of the following may be valid uses of the <aside> element:
+
+    bibliography or endnotes
+    comments
+    pull quotes
+    editorial sidebars
+    additional information
+    website sidebars unrelated to the content
+
+The following are most likely not good uses of the <aside> element
+
+<!-- Several potential placements for <aside> -->
+
+<body>
+  <main>
+    <article>
+      <header>
+        <h1>Title of Article</h1>
+        <!-- Post Data: Byline, dateline -->
+      </header>
+      <main>
+      <!-- Article Content -->
+        <aside><!-- Pull Quote --></aside>
+      </main>
+      <aside>
+        <!-- Comment Section -->
+      </aside>
+      <footer>
+        <!-- Post Date: Tags, Categories, Navigation -->
+      </footer>
+    </article>
+  </main>
+  <aside>
+    <!-- Website sidebar: Advertising, Post Index, Login Forms -->
+  </aside>
+</body>
+
+
+<section>
+
+The <section> element represents a generic section of a document or application.
+
+    A section, in this context, is a thematic grouping of content:
+
+— chapter
+
+— various tabbed pages in a tabbed dialog box
+
+— numbered sections of a thesis …
+
+    A Web site’s home page could be split into sections for an introduction, news items, and contact information.
+    The section element is not a generic container element. The section element is appropriate only if the contents would be listed explicitly in the document’s outline. [Example A]
+    A section typically with a heading.
+
+ # WHAHT IS <Div> Element
+
+The <div> element has no special meaning at all.
+
+    It can be used with the class, lang, and title attributes to mark up semantics common to a group of consecutive elements.
+    When no other element is suitable, the div element is used as an element of last resort. Otherwise, it leads to poor accessibility for reader.
+
+## A simple example
+
+<div>
+  <p>Any kind of content here. Such as
+  &lt;p&gt;, &lt;table&gt;. You name it!</p>
+</div> 
+
+## A styled example
+
+div class="shadowbox">
+  <p>Here's a very interesting note displayed in a
+  lovely shadowed box.</p>
+</div>
+
+## CSS
+
+.shadowbox {
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+
+ 
+ 
+ 
+ The Article author :
+
+> KEFAH JAMIL
+ 
