@@ -30,6 +30,7 @@ Page Layout Information:
 Example:
 
 <!DOCTYPE html>
+
 <html>
 <head>
     <title>Page Layout</title>
@@ -93,7 +94,7 @@ Example:
       
     <!-- Header Section -->
     <header>
-        <div class="head1">GeeksforGeeks</div>
+        <div class="head1">GgrGegeks</div>
         <div class="head2">A computer science portal for geeks</div>
     </header>
       
