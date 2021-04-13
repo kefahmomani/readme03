@@ -29,7 +29,6 @@ Page Layout Information:
  
 Example:
 
-<!DOCTYPE html>
 
 <html>
 <head>
